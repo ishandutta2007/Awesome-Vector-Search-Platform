@@ -1,5 +1,7 @@
 # Awesome-Vector-Search-Platform
 
+![Banner](assets/banner.svg)
+
 ## Top Vector Search Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Embedding Storage, Approximate Nearest Neighbor (ANN) Search, Hybrid Retrieval, Metadata Filtering, RAG Infrastructure & Billion-Scale Similarity Search*

@@ -110,3 +110,5 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 Let's make high-quality vector search more open, portable, and accessible.
 
 ##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Vector-Search-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Vector-Search-Platform&type=date&legend=top-left)

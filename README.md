@@ -2,6 +2,9 @@
 
 ![Vector Search Platform Banner](assets/banner.svg)
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
 > **Comprehensive guide to vector search platforms, vector databases, embedding storage, and similarity search solutions for AI applications, RAG systems, and semantic search.**
 
 **Keywords:** vector database, vector search, embedding storage, similarity search, ANN, approximate nearest neighbor, RAG, retrieval augmented generation, semantic search, Pinecone, Weaviate, Qdrant, Milvus, pgvector, Chroma, vector embeddings, AI search, machine learning search, hybrid search, metadata filtering, billion-scale search

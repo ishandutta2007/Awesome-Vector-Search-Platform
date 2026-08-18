@@ -108,3 +108,5 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 **Related Topics:** artificial intelligence, machine learning, natural language processing, information retrieval, search engines, database systems, embeddings, neural networks, similarity algorithms, data science, ML infrastructure
 
 Let's make high-quality vector search more open, portable, and accessible.
+
+##  Star History
